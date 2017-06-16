@@ -1,2 +1,6 @@
 # WordListGen
-Pull Word Category from Merriam-Webster
+Pull Word Type Category from Merriam-Webster.
+
+This word doc is from Linux /usr/share/dict.
+
+
